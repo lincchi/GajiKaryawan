@@ -1,0 +1,13 @@
+D:\College\Semester 2\Pemrograman\Menghitung Gaji Karyawan\Menghitung Gaji Karyawan\bin\Debug\netcoreapp3.1\Menghitung Gaji Karyawan.exe
+D:\College\Semester 2\Pemrograman\Menghitung Gaji Karyawan\Menghitung Gaji Karyawan\bin\Debug\netcoreapp3.1\Menghitung Gaji Karyawan.deps.json
+D:\College\Semester 2\Pemrograman\Menghitung Gaji Karyawan\Menghitung Gaji Karyawan\bin\Debug\netcoreapp3.1\Menghitung Gaji Karyawan.runtimeconfig.json
+D:\College\Semester 2\Pemrograman\Menghitung Gaji Karyawan\Menghitung Gaji Karyawan\bin\Debug\netcoreapp3.1\Menghitung Gaji Karyawan.runtimeconfig.dev.json
+D:\College\Semester 2\Pemrograman\Menghitung Gaji Karyawan\Menghitung Gaji Karyawan\bin\Debug\netcoreapp3.1\Menghitung Gaji Karyawan.dll
+D:\College\Semester 2\Pemrograman\Menghitung Gaji Karyawan\Menghitung Gaji Karyawan\bin\Debug\netcoreapp3.1\Menghitung Gaji Karyawan.pdb
+D:\College\Semester 2\Pemrograman\Menghitung Gaji Karyawan\Menghitung Gaji Karyawan\obj\Debug\netcoreapp3.1\Menghitung Gaji Karyawan.csprojAssemblyReference.cache
+D:\College\Semester 2\Pemrograman\Menghitung Gaji Karyawan\Menghitung Gaji Karyawan\obj\Debug\netcoreapp3.1\Menghitung Gaji Karyawan.AssemblyInfoInputs.cache
+D:\College\Semester 2\Pemrograman\Menghitung Gaji Karyawan\Menghitung Gaji Karyawan\obj\Debug\netcoreapp3.1\Menghitung Gaji Karyawan.AssemblyInfo.cs
+D:\College\Semester 2\Pemrograman\Menghitung Gaji Karyawan\Menghitung Gaji Karyawan\obj\Debug\netcoreapp3.1\Menghitung Gaji Karyawan.csproj.CoreCompileInputs.cache
+D:\College\Semester 2\Pemrograman\Menghitung Gaji Karyawan\Menghitung Gaji Karyawan\obj\Debug\netcoreapp3.1\Menghitung Gaji Karyawan.dll
+D:\College\Semester 2\Pemrograman\Menghitung Gaji Karyawan\Menghitung Gaji Karyawan\obj\Debug\netcoreapp3.1\Menghitung Gaji Karyawan.pdb
+D:\College\Semester 2\Pemrograman\Menghitung Gaji Karyawan\Menghitung Gaji Karyawan\obj\Debug\netcoreapp3.1\Menghitung Gaji Karyawan.genruntimeconfig.cache
